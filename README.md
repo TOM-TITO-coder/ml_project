@@ -6,5 +6,5 @@
     * New environment
     * setup.py
     * requirements.txt
-2. ml_project
+2. Src folder and build the package
 
